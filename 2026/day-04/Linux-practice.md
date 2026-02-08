@@ -34,7 +34,8 @@
 
   #Tail -n 50 
 
-  <img width="1920" height="1080" alt="tail -n 50" src="https://github.com/user-attachments/assets/a2bde0f6-f4f3-4f21-b2a7-fe41e1e1f9eb" />
+  <img width="1920" height="1021" alt="tail -n 50" src="https://github.com/user-attachments/assets/7eeed62d-4a83-4010-a38d-252f50a12900" />
+
 
   
 
